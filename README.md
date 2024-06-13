@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **kubadewerendaa@gmail.com**
 
-- 📄 Currently, I am looking for a job. [http://linkedin.com/in/jakub-dewerenda-2b3517300](http://linkedin.com/in/jakub-dewerenda-2b3517300)
+- 📄 Currently, I am looking for a job [http://linkedin.com/in/jakub-dewerenda-2b3517300](http://linkedin.com/in/jakub-dewerenda-2b3517300)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
