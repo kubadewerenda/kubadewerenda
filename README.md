@@ -4,6 +4,8 @@
     <img src="https://github.com/kubadewerenda/kubadewerenda/assets/157903844/c6e21710-aa1e-467f-b09c-8fa7be9b407a" width="250" height="250" alt="animated gif">
 </p>
 
+<h3 align="center">I am an IT Student and a beginner programmer. I strive to learn as much as possible.</h3>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kubadewerenda&label=Profile%20views&color=0e75b6&style=flat" alt="kubadewerenda" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kubadewerenda" alt="kubadewerenda" /></a> </p>
@@ -23,6 +25,7 @@
 <a href="https://linkedin.com/in/jakub-dewerenda-2b3517300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/jakub-dewerenda-2b3517300" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25564395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25564395" height="30" width="40" /></a>
 <a href="https://instagram.com/t0_benny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t0_benny" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100004832354893" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kubadewerenda" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
