@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Kuba</h1>
 
-<p align="center">
-    <img src="https://github.com/kubadewerenda/kubadewerenda/assets/157903844/c6e21710-aa1e-467f-b09c-8fa7be9b407a" width="250" height="250" alt="animated gif">
-</p>
+<p align="center"><img src="https://github.com/kubadewerenda/kubadewerenda/assets/157903844/c6e21710-aa1e-467f-b09c-8fa7be9b407a" width="250" height="250" alt="animated gif"></p>
 
 <h3 align="center">I am an IT Student and a beginner programmer. I strive to learn as much as possible.</h3>
 
@@ -14,11 +12,19 @@
 
 - 🌱 I’m currently learning **Python, web applications etc.**
 
-- 👨‍💻 All of my projects are available at [github.com/kubadewerenda](github.com/kubadewerenda)
+- 👨‍💻 All of my projects are available at [github.com](https://github.com/kubadewerenda?tab=repositories)
 
 - 📫 How to reach me **kubadewerendaa@gmail.com**
 
-- 📄 Currently, I am looking for a job [http://linkedin.com/in/jakub-dewerenda-2b3517300](http://linkedin.com/in/jakub-dewerenda-2b3517300)
+- 📄 Currently, I am looking for a job [linkedin.com](http://linkedin.com/in/jakub-dewerenda-2b3517300)
+
+<h3 align="center">I have completed several paid web projects. You can check my Fiverr profile to see my offer. Please click below.</h3>
+
+<p align="center">
+<a href="https://www.fiverr.com/jakub_dewerenda" target="blank">
+<img src="https://github.com/kubadewerenda/kubadewerenda/assets/157903844/9a8f518f-cfdd-4395-b185-b67822d92153" alt="kubadewerenda" width=200 height=180/>
+</a>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
