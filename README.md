@@ -3,8 +3,8 @@
 <p align="center"><img src="https://github.com/kubadewerenda/kubadewerenda/assets/157903844/c6e21710-aa1e-467f-b09c-8fa7be9b407a" width="250" height="250" alt="animated gif"></p>
 
 <h3 align="center">I am an IT Student and a beginner programmer. I strive to learn as much as possible.</h3>
-<h1 align="center">More informations about me at</h1>
-<h1 align="center">https://dewerendajakub.pl</h1>
+<h2 align="center">More informations about me at</h1>
+<h2 align="center">https://dewerendajakub.pl</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kubadewerenda&label=Profile%20views&color=0e75b6&style=flat" alt="kubadewerenda" /> </p>
 
