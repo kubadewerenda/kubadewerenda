@@ -4,7 +4,7 @@
 
 <h3 align="center">I am an IT Student and a beginner programmer. I strive to learn as much as possible.</h3>
 
-<h3 align="center">**More** informations about **me**</h3>
+<h3 align="center">More informations about me</h3>
 
 <h3 align="center">https://dewerendajakub.pl</h3>
 
