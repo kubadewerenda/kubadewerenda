@@ -8,9 +8,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kubadewerenda" alt="kubadewerenda" /></a> </p>
 
-- 🔭 I’m currently working on **python projects**
+- 🔭 I’m currently working on **FullStack projects**
 
-- 🌱 I’m currently learning **Python, web applications etc.**
+- 🌱 I’m currently learning **django, react, web applications etc.**
 
 - 👨‍💻 All of my projects are available at [github.com](https://github.com/kubadewerenda?tab=repositories)
 
