@@ -6,7 +6,7 @@
 
 <h3 align="center">**More** informations about **me**</h3>
 
-<h3 align="center">[My Portfolio](https://dewerendajakub.pl)</h3>
+<h3 align="center">**https://dewerendajakub.pl**</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kubadewerenda&label=Profile%20views&color=0e75b6&style=flat" alt="kubadewerenda" /> </p>
 
